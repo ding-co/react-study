@@ -2,11 +2,11 @@
 
 ### _러닝 리액트 (교재)_
 
-> - [ ] [ch01 - 리액트 소개](https://github.com/ding-co/react-study/blob/main/code/ch01)
+> - [x] [ch01 - 리액트 소개](#)
 
-> - [ ] [ch02 - 리액트를 위한 자바스크립트](https://github.com/ding-co/react-study/blob/main/code/ch02)
+> - [x] [ch02 - 리액트를 위한 자바스크립트](#)
 
-> - [ ] [ch03 - 자바스크립트를 활용한 함수형 프로그래밍](https://github.com/ding-co/react-study/blob/main/code/ch03)
+> - [x] [ch03 - 자바스크립트를 활용한 함수형 프로그래밍](https://github.com/ding-co/react-study/blob/main/code/ch03)
 
 > - [ ] [ch04 - 리액트의 작동 원리](https://github.com/ding-co/react-study/blob/main/code/ch04)
 
