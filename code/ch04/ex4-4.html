@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Document</title>
+  </head>
+  <body>
+    <div id="root"></div>
+
+    <!-- React와 ReactDOM 라이브러리(개발 버전) -->
+    <script
+      crossorigin
+      src="https://unpkg.com/react@17/umd/react.development.js"
+    ></script>
+    <script
+      crossorigin
+      src="https://unpkg.com/react-dom@17/umd/react-dom.development.js"
+    ></script>
+
+    <script>
+      const secretIngredients = [
+        '무염 버터 1 컵',
+        '크런치 땅콩 버터 1 컵',
+        '흑설탕 1 컵',
+        '백설탕 1 컵',
+        '달걀 2 개',
+        '일반 밀가루 2.5 컵',
+        '베이킹 소다 1 티스푼',
+        '소금 0.5 티스푼',
+      ];
+
+      function IngredientsList({ items }) {
+        return React.createElement(
+          'ul',
+          { className: 'ingredients' },
+          items.map((ingredient, i) =>
+            React.createElement('li', { key: i }, ingredient)
+          )
+        );
+      }
+
+      ReactDOM.render(
+        React.createElement(
+          IngredientsList,
+          { items: secretIngredients },
+          null
+        ),
+        document.getElementById('root')
+      );
+    </script>
+  </body>
+</html>

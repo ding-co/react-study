@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Document</title>
+  </head>
+  <body>
+    <!-- 타겟 컨테이너 -->
+    <div id="root"></div>
+
+    <section id="baked-salmon">
+      <h1>구운 연어</h1>
+      <ul class="ingredients">
+        <li>연어 900그램</li>
+        <li>신선한 로즈마리 5 가지</li>
+        <li>올리브 오일 2 테이블스푼</li>
+        <li>작은 레몬 2 조각</li>
+        <li>코셔 소금 1 티스푼</li>
+        <li>다진 마늘 4 쪽</li>
+      </ul>
+      <section class="instructions">
+        <h2>조리 과정</h2>
+        <p>오븐을 190도로 예열한다.</p>
+        <p>알루미늄 포일에 올리브 오일을 가볍게 두른다.</p>
+        <p>연어를 포일에 올린다.</p>
+        <p>로즈마리, 슬라이스한 레몬, 다진 마늘을 연어 위에 얹는다.</p>
+        <p>완전히 익을 때까지 15-20분간 굽는다.</p>
+        <p>오븐에서 그릇을 꺼낸다.</p>
+      </section>
+    </section>
+
+    <!-- React와 ReactDOM 라이브러리(개발 버전) -->
+    <script
+      crossorigin
+      src="https://unpkg.com/react@17/umd/react.development.js"
+    ></script>
+    <script
+      crossorigin
+      src="https://unpkg.com/react-dom@17/umd/react-dom.development.js"
+    ></script>
+
+    <script>
+      React.createElement('h1', { id: 'recipe-0' }, '구운 연어');
+    </script>
+  </body>
+</html>
