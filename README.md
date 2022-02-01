@@ -8,11 +8,11 @@
 
 > - [x] [ch03 - 자바스크립트를 활용한 함수형 프로그래밍](https://github.com/ding-co/react-study/blob/main/code/ch03)
 
-> - [ ] [ch04 - 리액트의 작동 원리](https://github.com/ding-co/react-study/blob/main/code/ch04)
+> - [x] [ch04 - 리액트의 작동 원리](https://github.com/ding-co/react-study/blob/main/code/ch04)
 
-> - [ ] [ch05 - JSX를 사용하는 리액트](https://github.com/ding-co/react-study/blob/main/code/ch05)
+> - [x] [ch05 - JSX를 사용하는 리액트](https://github.com/ding-co/react-study/blob/main/code/ch05)
 
-> - [ ] [ch06 - 리액트의 상태 관리](https://github.com/ding-co/react-study/blob/main/code/ch06)
+> - [x] [ch06 - 리액트의 상태 관리](https://github.com/ding-co/react-study/blob/main/code/ch06)
 
 > - [ ] [ch07 - 훅스로 컴포넌트 개선하기](https://github.com/ding-co/react-study/blob/main/code/ch07)
 
