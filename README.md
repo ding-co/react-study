@@ -14,11 +14,11 @@
 
 > - [x] [ch06 - 리액트의 상태 관리](https://github.com/ding-co/react-study/blob/main/code/ch06)
 
-> - [ ] [ch07 - 훅스로 컴포넌트 개선하기](https://github.com/ding-co/react-study/blob/main/code/ch07)
+> - [x] [ch07 - 훅스로 컴포넌트 개선하기](https://github.com/ding-co/react-study/blob/main/code/ch07)
 
-> - [ ] [ch08 - 데이터 포함시키기](https://github.com/ding-co/react-study/blob/main/code/ch08)
+> - [x] [ch08 - 데이터 포함시키기](https://github.com/ding-co/react-study/blob/main/code/ch08)
 
-> - [ ] [ch09 - Suspense](https://github.com/ding-co/react-study/blob/main/code/ch09)
+> - [x] [ch09 - Suspense](https://github.com/ding-co/react-study/blob/main/code/ch09)
 
 > - [ ] [ch10 - 리액트 테스트](https://github.com/ding-co/react-study/blob/main/code/ch10)
 
