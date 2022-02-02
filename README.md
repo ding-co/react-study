@@ -20,8 +20,8 @@
 
 > - [x] [ch09 - Suspense](https://github.com/ding-co/react-study/blob/main/code/ch09)
 
-> - [ ] [ch10 - 리액트 테스트](https://github.com/ding-co/react-study/blob/main/code/ch10)
+> - [x] [ch10 - 리액트 테스트](https://github.com/ding-co/react-study/blob/main/code/ch10)
 
-> - [ ] [ch11 - 리액트 라우터](https://github.com/ding-co/react-study/blob/main/code/ch11)
+> - [x] [ch11 - 리액트 라우터](https://github.com/ding-co/react-study/blob/main/code/ch11)
 
-> - [ ] [ch12 - 리액트와 서버](https://github.com/ding-co/react-study/blob/main/code/ch12)
+> - [x] [ch12 - 리액트와 서버](https://github.com/ding-co/react-study/blob/main/code/ch12)
