@@ -1,4 +1,4 @@
-import React, { useState, useCallback, useMemo } from 'react';
+import React, { useState, useMemo, useCallback } from 'react';
 
 export const useIterator = (items = [], initialIndex = 0) => {
   const [i, setIndex] = useState(initialIndex);
